@@ -1,0 +1,1 @@
+Code associated with the paper: [Asynchronous switching and sparse discretization with time scaling for control vector parameterization optimal control], published in Engineering Optimization (DOI: 10.1080/0305215X.2024.2349931). This repository contains the implementation and supplementary materials used in the research.
